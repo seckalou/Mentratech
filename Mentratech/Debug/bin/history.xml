@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=Mentratech.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\Mentratech -TC:\CooCox\CoIDE\configuration\ProgramData\Mentratech/arm-gcc-link.ld -g">
+      <target file="Mentratech.elf" lastModified="14d01acf4cf">
+         <source file="..\obj\stm32l1xx_gpio.o" lastModified="14d01aced61"/>
+         <source file="..\obj\stm32l1xx_pwr.o" lastModified="14d01acedce"/>
+         <source file="..\obj\stm32l_discovery_lcd.o" lastModified="14d01acee81"/>
+         <source file="..\obj\stm32l1xx_exti.o" lastModified="14d01aceef2"/>
+         <source file="..\obj\stm32l1xx_rcc.o" lastModified="14d01acef84"/>
+         <source file="..\obj\system_stm32l1xx.o" lastModified="14d01acefde"/>
+         <source file="..\obj\main.o" lastModified="14d01acf02f"/>
+         <source file="..\obj\stm32l1xx_lcd.o" lastModified="14d01acf0a7"/>
+         <source file="..\obj\LCD.o" lastModified="14d01acf10d"/>
+         <source file="..\obj\stm32l1xx_syscfg.o" lastModified="14d01acf184"/>
+         <source file="..\obj\stm32l1xx_it.o" lastModified="14d01acf1d7"/>
+         <source file="..\obj\startup_stm32l1xx_mdp.o" lastModified="14d01acf21a"/>
+         <source file="..\obj\BTN.o" lastModified="14d01acf27e"/>
+         <source file="..\obj\misc.o" lastModified="14d01acf2de"/>
+      </target>
+   </processor>
+</history>

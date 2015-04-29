@@ -1,0 +1,754 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ..\obj\stm32l1xx_gpio.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_gpio.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0xfc ..\obj\stm32l1xx_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x44 ..\obj\stm32l1xx_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000       0x1c ..\obj\stm32l1xx_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0x38 ..\obj\stm32l1xx_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000       0x1c ..\obj\stm32l1xx_gpio.o
+ .text.GPIO_SetBits
+                0x00000000       0x1c ..\obj\stm32l1xx_gpio.o
+ .text.GPIO_ResetBits
+                0x00000000       0x1c ..\obj\stm32l1xx_gpio.o
+ .text.GPIO_WriteBit
+                0x00000000       0x30 ..\obj\stm32l1xx_gpio.o
+ .text.GPIO_Write
+                0x00000000       0x1c ..\obj\stm32l1xx_gpio.o
+ .text.GPIO_ToggleBits
+                0x00000000       0x28 ..\obj\stm32l1xx_gpio.o
+ .text          0x00000000        0x0 ..\obj\stm32l1xx_pwr.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_pwr.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x1c ..\obj\stm32l1xx_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x38 ..\obj\stm32l1xx_pwr.o
+ .text.PWR_PVDCmd
+                0x00000000       0x20 ..\obj\stm32l1xx_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x00000000       0x30 ..\obj\stm32l1xx_pwr.o
+ .text.PWR_FastWakeUpCmd
+                0x00000000       0x20 ..\obj\stm32l1xx_pwr.o
+ .text.PWR_UltraLowPowerCmd
+                0x00000000       0x20 ..\obj\stm32l1xx_pwr.o
+ .text.PWR_VoltageScalingConfig
+                0x00000000       0x3c ..\obj\stm32l1xx_pwr.o
+ .text.PWR_EnterLowPowerRunMode
+                0x00000000       0x50 ..\obj\stm32l1xx_pwr.o
+ .text.PWR_EnterSleepMode
+                0x00000000       0x58 ..\obj\stm32l1xx_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x64 ..\obj\stm32l1xx_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x00000000       0x3c ..\obj\stm32l1xx_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x34 ..\obj\stm32l1xx_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x24 ..\obj\stm32l1xx_pwr.o
+ .text          0x00000000        0x0 ..\obj\stm32l_discovery_lcd.o
+ .data          0x00000000        0x0 ..\obj\stm32l_discovery_lcd.o
+ .text.LCD_contrast
+                0x00000000       0x48 ..\obj\stm32l_discovery_lcd.o
+ .text.LCD_GLASS_DisplayStrDeci
+                0x00000000       0xa8 ..\obj\stm32l_discovery_lcd.o
+ .text          0x00000000        0x0 ..\obj\stm32l1xx_exti.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_exti.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x30 ..\obj\stm32l1xx_exti.o
+ .text.EXTI_Init
+                0x00000000       0xe4 ..\obj\stm32l1xx_exti.o
+ .text.EXTI_StructInit
+                0x00000000       0x2c ..\obj\stm32l1xx_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x24 ..\obj\stm32l1xx_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x34 ..\obj\stm32l1xx_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000       0x1c ..\obj\stm32l1xx_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x34 ..\obj\stm32l1xx_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000       0x1c ..\obj\stm32l1xx_exti.o
+ .debug_info    0x00000000      0x338 ..\obj\stm32l1xx_exti.o
+ .debug_abbrev  0x00000000      0x1a5 ..\obj\stm32l1xx_exti.o
+ .debug_aranges
+                0x00000000       0x58 ..\obj\stm32l1xx_exti.o
+ .debug_ranges  0x00000000       0x48 ..\obj\stm32l1xx_exti.o
+ .debug_line    0x00000000      0x293 ..\obj\stm32l1xx_exti.o
+ .debug_str     0x00000000      0x349 ..\obj\stm32l1xx_exti.o
+ .comment       0x00000000       0x71 ..\obj\stm32l1xx_exti.o
+ .debug_frame   0x00000000      0x148 ..\obj\stm32l1xx_exti.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_exti.o
+ .text          0x00000000        0x0 ..\obj\stm32l1xx_rcc.o
+ .data          0x00000000       0x1c ..\obj\stm32l1xx_rcc.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x5c ..\obj\stm32l1xx_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x50 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_AdjustMSICalibrationValue
+                0x00000000       0x20 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_MSICmd
+                0x00000000       0x20 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x3c ..\obj\stm32l1xx_rcc.o
+ .text.RCC_LSICmd
+                0x00000000       0x20 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x34 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000       0x20 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x20 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_LSEClockSecuritySystemCmd
+                0x00000000       0x20 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_MCOConfig
+                0x00000000       0x2c ..\obj\stm32l1xx_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x20 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x38 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x38 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x38 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_GetClocksFreq
+                0x00000000      0x1b4 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_AHBPeriphResetCmd
+                0x00000000       0x3c ..\obj\stm32l1xx_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x3c ..\obj\stm32l1xx_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x3c ..\obj\stm32l1xx_rcc.o
+ .text.RCC_AHBPeriphClockLPModeCmd
+                0x00000000       0x3c ..\obj\stm32l1xx_rcc.o
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x3c ..\obj\stm32l1xx_rcc.o
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x3c ..\obj\stm32l1xx_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x4c ..\obj\stm32l1xx_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x1c ..\obj\stm32l1xx_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x38 ..\obj\stm32l1xx_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000       0x20 ..\obj\stm32l1xx_rcc.o
+ .text          0x00000000        0x0 ..\obj\system_stm32l1xx.o
+ .data          0x00000000       0x20 ..\obj\system_stm32l1xx.o
+ .bss           0x00000000        0x0 ..\obj\system_stm32l1xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000      0x158 ..\obj\system_stm32l1xx.o
+ .text          0x00000000        0x0 ..\obj\main.o
+ .data          0x00000000        0x0 ..\obj\main.o
+ .bss           0x00000000        0x0 ..\obj\main.o
+ .text          0x00000000        0x0 ..\obj\stm32l1xx_lcd.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_lcd.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_lcd.o
+ .text.LCD_DeInit
+                0x00000000       0x1c ..\obj\stm32l1xx_lcd.o
+ .text.LCD_StructInit
+                0x00000000       0x30 ..\obj\stm32l1xx_lcd.o
+ .text.LCD_HighDriveCmd
+                0x00000000       0x20 ..\obj\stm32l1xx_lcd.o
+ .text.LCD_Write
+                0x00000000       0x28 ..\obj\stm32l1xx_lcd.o
+ .text.LCD_ITConfig
+                0x00000000       0x3c ..\obj\stm32l1xx_lcd.o
+ .text.LCD_ClearFlag
+                0x00000000       0x1c ..\obj\stm32l1xx_lcd.o
+ .text.LCD_GetITStatus
+                0x00000000       0x50 ..\obj\stm32l1xx_lcd.o
+ .text.LCD_ClearITPendingBit
+                0x00000000       0x1c ..\obj\stm32l1xx_lcd.o
+ .text          0x00000000        0x0 ..\obj\LCD.o
+ .data          0x00000000        0x0 ..\obj\LCD.o
+ .bss           0x00000000        0x0 ..\obj\LCD.o
+ .text.lcd_display
+                0x00000000       0x20 ..\obj\LCD.o
+ .text          0x00000000        0x0 ..\obj\stm32l1xx_syscfg.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_syscfg.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_DeInit
+                0x00000000       0x18 ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_RIDeInit
+                0x00000000       0x3c ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_MemoryRemapConfig
+                0x00000000       0x20 ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_GetBootMode
+                0x00000000       0x1c ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_USBPuCmd
+                0x00000000       0x38 ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_EXTILineConfig
+                0x00000000       0x84 ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_RITIMSelect
+                0x00000000       0x38 ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_RITIMInputCaptureConfig
+                0x00000000       0xa0 ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_RIResistorConfig
+                0x00000000       0x3c ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_RIChannelSpeedConfig
+                0x00000000       0x3c ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_RIIOSwitchConfig
+                0x00000000       0x78 ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_RISwitchControlModeCmd
+                0x00000000       0x38 ..\obj\stm32l1xx_syscfg.o
+ .text.SYSCFG_RIHysteresisConfig
+                0x00000000      0x14c ..\obj\stm32l1xx_syscfg.o
+ .debug_info    0x00000000      0x432 ..\obj\stm32l1xx_syscfg.o
+ .debug_abbrev  0x00000000      0x176 ..\obj\stm32l1xx_syscfg.o
+ .debug_aranges
+                0x00000000       0x80 ..\obj\stm32l1xx_syscfg.o
+ .debug_ranges  0x00000000       0x70 ..\obj\stm32l1xx_syscfg.o
+ .debug_line    0x00000000      0x2cf ..\obj\stm32l1xx_syscfg.o
+ .debug_str     0x00000000      0x416 ..\obj\stm32l1xx_syscfg.o
+ .comment       0x00000000       0x71 ..\obj\stm32l1xx_syscfg.o
+ .debug_frame   0x00000000      0x1fc ..\obj\stm32l1xx_syscfg.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_syscfg.o
+ .text          0x00000000        0x0 ..\obj\stm32l1xx_it.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_it.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_it.o
+ .text          0x00000000        0x0 ..\obj\startup_stm32l1xx_mdp.o
+ .data          0x00000000        0x0 ..\obj\startup_stm32l1xx_mdp.o
+ .bss           0x00000000        0x0 ..\obj\startup_stm32l1xx_mdp.o
+ .text.Default_Handler
+                0x00000000        0x8 ..\obj\startup_stm32l1xx_mdp.o
+ .text          0x00000000        0x0 ..\obj\BTN.o
+ .data          0x00000000        0x0 ..\obj\BTN.o
+ .bss           0x00000000        0x0 ..\obj\BTN.o
+ .text          0x00000000        0x0 ..\obj\misc.o
+ .data          0x00000000        0x0 ..\obj\misc.o
+ .bss           0x00000000        0x0 ..\obj\misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x24 ..\obj\misc.o
+ .text.NVIC_Init
+                0x00000000       0xc0 ..\obj\misc.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x2c ..\obj\misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x40 ..\obj\misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x38 ..\obj\misc.o
+ .debug_info    0x00000000      0x53d ..\obj\misc.o
+ .debug_abbrev  0x00000000      0x145 ..\obj\misc.o
+ .debug_aranges
+                0x00000000       0x40 ..\obj\misc.o
+ .debug_ranges  0x00000000       0x30 ..\obj\misc.o
+ .debug_line    0x00000000      0x23c ..\obj\misc.o
+ .debug_str     0x00000000      0x3cb ..\obj\misc.o
+ .comment       0x00000000       0x71 ..\obj\misc.o
+ .debug_frame   0x00000000       0xd8 ..\obj\misc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\misc.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x00040000         xr
+ram              0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x20008000                _eram = 0x20008000
+
+.text           0x08000000     0x1618
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x118 ..\obj\startup_stm32l1xx_mdp.o
+                0x08000000                g_pfnVectors
+ *(.text*)
+ .text.GPIO_Init
+                0x08000118      0x128 ..\obj\stm32l1xx_gpio.o
+                0x08000118                GPIO_Init
+ .text.GPIO_StructInit
+                0x08000240       0x34 ..\obj\stm32l1xx_gpio.o
+                0x08000240                GPIO_StructInit
+ .text.GPIO_ReadInputDataBit
+                0x08000274       0x38 ..\obj\stm32l1xx_gpio.o
+                0x08000274                GPIO_ReadInputDataBit
+ .text.GPIO_PinAFConfig
+                0x080002ac       0x90 ..\obj\stm32l1xx_gpio.o
+                0x080002ac                GPIO_PinAFConfig
+ .text.PWR_RTCAccessCmd
+                0x0800033c       0x20 ..\obj\stm32l1xx_pwr.o
+                0x0800033c                PWR_RTCAccessCmd
+ .text.LCD_GLASS_Init
+                0x0800035c       0x78 ..\obj\stm32l_discovery_lcd.o
+                0x0800035c                LCD_GLASS_Init
+ .text.LCD_GLASS_Configure_GPIO
+                0x080003d4      0x184 ..\obj\stm32l_discovery_lcd.o
+                0x080003d4                LCD_GLASS_Configure_GPIO
+ .text.LCD_bar  0x08000558       0x4c ..\obj\stm32l_discovery_lcd.o
+                0x08000558                LCD_bar
+ .text.LCD_Conv_Char_Seg
+                0x080005a4      0x158 ..\obj\stm32l_discovery_lcd.o
+ .text.LCD_GLASS_WriteChar
+                0x080006fc      0x4a8 ..\obj\stm32l_discovery_lcd.o
+                0x080006fc                LCD_GLASS_WriteChar
+ .text.LCD_GLASS_DisplayString
+                0x08000ba4       0x60 ..\obj\stm32l_discovery_lcd.o
+                0x08000ba4                LCD_GLASS_DisplayString
+ .text.LCD_GLASS_Clear
+                0x08000c04       0x48 ..\obj\stm32l_discovery_lcd.o
+                0x08000c04                LCD_GLASS_Clear
+ .text.LCD_GLASS_ScrollSentence
+                0x08000c4c      0x18c ..\obj\stm32l_discovery_lcd.o
+                0x08000c4c                LCD_GLASS_ScrollSentence
+ .text.RCC_HSEConfig
+                0x08000dd8       0x24 ..\obj\stm32l1xx_rcc.o
+                0x08000dd8                RCC_HSEConfig
+ .text.RCC_MSIRangeConfig
+                0x08000dfc       0x38 ..\obj\stm32l1xx_rcc.o
+                0x08000dfc                RCC_MSIRangeConfig
+ .text.RCC_HSICmd
+                0x08000e34       0x20 ..\obj\stm32l1xx_rcc.o
+                0x08000e34                RCC_HSICmd
+ .text.RCC_LSEConfig
+                0x08000e54       0x24 ..\obj\stm32l1xx_rcc.o
+                0x08000e54                RCC_LSEConfig
+ .text.RCC_SYSCLKConfig
+                0x08000e78       0x38 ..\obj\stm32l1xx_rcc.o
+                0x08000e78                RCC_SYSCLKConfig
+ .text.RCC_RTCCLKConfig
+                0x08000eb0       0x64 ..\obj\stm32l1xx_rcc.o
+                0x08000eb0                RCC_RTCCLKConfig
+ .text.RCC_RTCCLKCmd
+                0x08000f14       0x20 ..\obj\stm32l1xx_rcc.o
+                0x08000f14                RCC_RTCCLKCmd
+ .text.RCC_RTCResetCmd
+                0x08000f34       0x20 ..\obj\stm32l1xx_rcc.o
+                0x08000f34                RCC_RTCResetCmd
+ .text.RCC_AHBPeriphClockCmd
+                0x08000f54       0x3c ..\obj\stm32l1xx_rcc.o
+                0x08000f54                RCC_AHBPeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x08000f90       0x3c ..\obj\stm32l1xx_rcc.o
+                0x08000f90                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x08000fcc       0x3c ..\obj\stm32l1xx_rcc.o
+                0x08000fcc                RCC_APB1PeriphClockCmd
+ .text.RCC_GetFlagStatus
+                0x08001008       0x68 ..\obj\stm32l1xx_rcc.o
+                0x08001008                RCC_GetFlagStatus
+ .text.SystemInit
+                0x08001070       0x64 ..\obj\system_stm32l1xx.o
+                0x08001070                SystemInit
+ .text.SetSysClock
+                0x080010d4      0x120 ..\obj\system_stm32l1xx.o
+ .text.main     0x080011f4       0x24 ..\obj\main.o
+                0x080011f4                main
+ .text.LCD_Init
+                0x08001218       0x5c ..\obj\stm32l1xx_lcd.o
+                0x08001218                LCD_Init
+ .text.LCD_Cmd  0x08001274       0x20 ..\obj\stm32l1xx_lcd.o
+                0x08001274                LCD_Cmd
+ .text.LCD_WaitForSynchro
+                0x08001294       0x20 ..\obj\stm32l1xx_lcd.o
+                0x08001294                LCD_WaitForSynchro
+ .text.LCD_MuxSegmentCmd
+                0x080012b4       0x20 ..\obj\stm32l1xx_lcd.o
+                0x080012b4                LCD_MuxSegmentCmd
+ .text.LCD_PulseOnDurationConfig
+                0x080012d4       0x30 ..\obj\stm32l1xx_lcd.o
+                0x080012d4                LCD_PulseOnDurationConfig
+ .text.LCD_DeadTimeConfig
+                0x08001304       0x30 ..\obj\stm32l1xx_lcd.o
+                0x08001304                LCD_DeadTimeConfig
+ .text.LCD_BlinkConfig
+                0x08001334       0x34 ..\obj\stm32l1xx_lcd.o
+                0x08001334                LCD_BlinkConfig
+ .text.LCD_ContrastConfig
+                0x08001368       0x30 ..\obj\stm32l1xx_lcd.o
+                0x08001368                LCD_ContrastConfig
+ .text.LCD_UpdateDisplayRequest
+                0x08001398       0x18 ..\obj\stm32l1xx_lcd.o
+                0x08001398                LCD_UpdateDisplayRequest
+ .text.LCD_GetFlagStatus
+                0x080013b0       0x34 ..\obj\stm32l1xx_lcd.o
+                0x080013b0                LCD_GetFlagStatus
+ .text.lcd_display_scroll
+                0x080013e4       0x30 ..\obj\LCD.o
+                0x080013e4                lcd_display_scroll
+ .text.RCC_Configuration
+                0x08001414       0x54 ..\obj\LCD.o
+                0x08001414                RCC_Configuration
+ .text.RTC_Configuration
+                0x08001468       0x3c ..\obj\LCD.o
+                0x08001468                RTC_Configuration
+ .text.NMI_Handler
+                0x080014a4        0xc ..\obj\stm32l1xx_it.o
+                0x080014a4                NMI_Handler
+ .text.HardFault_Handler
+                0x080014b0        0x8 ..\obj\stm32l1xx_it.o
+                0x080014b0                HardFault_Handler
+ .text.MemManage_Handler
+                0x080014b8        0x8 ..\obj\stm32l1xx_it.o
+                0x080014b8                MemManage_Handler
+ .text.BusFault_Handler
+                0x080014c0        0x8 ..\obj\stm32l1xx_it.o
+                0x080014c0                BusFault_Handler
+ .text.UsageFault_Handler
+                0x080014c8        0x8 ..\obj\stm32l1xx_it.o
+                0x080014c8                UsageFault_Handler
+ .text.SVC_Handler
+                0x080014d0        0xc ..\obj\stm32l1xx_it.o
+                0x080014d0                SVC_Handler
+ .text.DebugMon_Handler
+                0x080014dc        0xc ..\obj\stm32l1xx_it.o
+                0x080014dc                DebugMon_Handler
+ .text.PendSV_Handler
+                0x080014e8        0xc ..\obj\stm32l1xx_it.o
+                0x080014e8                PendSV_Handler
+ .text.SysTick_Handler
+                0x080014f4        0xc ..\obj\stm32l1xx_it.o
+                0x080014f4                SysTick_Handler
+ .text.Default_Reset_Handler
+                0x08001500       0x64 ..\obj\startup_stm32l1xx_mdp.o
+                0x08001500                RTC_Alarm_IRQHandler
+                0x08001500                EXTI2_IRQHandler
+                0x08001500                COMP_ACQ_IRQHandler
+                0x08001500                TIM10_IRQHandler
+                0x08001500                USB_HP_IRQHandler
+                0x08001500                TIM6_IRQHandler
+                0x08001500                PVD_IRQHandler
+                0x08001500                EXTI3_IRQHandler
+                0x08001500                EXTI0_IRQHandler
+                0x08001500                I2C2_EV_IRQHandler
+                0x08001500                SPI1_IRQHandler
+                0x08001500                USB_FS_WKUP_IRQHandler
+                0x08001500                DMA2_Channel2_IRQHandler
+                0x08001500                DMA1_Channel4_IRQHandler
+                0x08001500                ADC1_IRQHandler
+                0x08001500                USART3_IRQHandler
+                0x08001500                DMA1_Channel7_IRQHandler
+                0x08001500                Reset_Handler
+                0x08001500                LCD_IRQHandler
+                0x08001500                TIM4_IRQHandler
+                0x08001500                DMA2_Channel1_IRQHandler
+                0x08001500                I2C1_EV_IRQHandler
+                0x08001500                DMA1_Channel6_IRQHandler
+                0x08001500                DMA2_Channel4_IRQHandler
+                0x08001500                TIM3_IRQHandler
+                0x08001500                RCC_IRQHandler
+                0x08001500                DMA1_Channel1_IRQHandler
+                0x08001500                EXTI15_10_IRQHandler
+                0x08001500                Default_Reset_Handler
+                0x08001500                TIM7_IRQHandler
+                0x08001500                TIM5_IRQHandler
+                0x08001500                EXTI9_5_IRQHandler
+                0x08001500                TIM9_IRQHandler
+                0x08001500                TAMPER_STAMP_IRQHandler
+                0x08001500                RTC_WKUP_IRQHandler
+                0x08001500                SPI2_IRQHandler
+                0x08001500                DMA2_Channel5_IRQHandler
+                0x08001500                DMA1_Channel5_IRQHandler
+                0x08001500                USB_LP_IRQHandler
+                0x08001500                EXTI4_IRQHandler
+                0x08001500                DMA1_Channel3_IRQHandler
+                0x08001500                COMP_IRQHandler
+                0x08001500                WWDG_IRQHandler
+                0x08001500                TIM2_IRQHandler
+                0x08001500                DAC_IRQHandler
+                0x08001500                EXTI1_IRQHandler
+                0x08001500                AES_IRQHandler
+                0x08001500                TIM11_IRQHandler
+                0x08001500                USART2_IRQHandler
+                0x08001500                I2C2_ER_IRQHandler
+                0x08001500                DMA1_Channel2_IRQHandler
+                0x08001500                FLASH_IRQHandler
+                0x08001500                USART1_IRQHandler
+                0x08001500                SPI3_IRQHandler
+                0x08001500                I2C1_ER_IRQHandler
+                0x08001500                DMA2_Channel3_IRQHandler
+ .text.init_btn
+                0x08001564       0x34 ..\obj\BTN.o
+                0x08001564                init_btn
+ .text.is_btn_clicked
+                0x08001598       0x20 ..\obj\BTN.o
+                0x08001598                is_btn_clicked
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x080015b8       0x48 ..\obj\stm32l_discovery_lcd.o
+                0x080015b8                CapLetterMap
+                0x080015ec                NumberMap
+ .rodata        0x08001600       0x18 ..\obj\main.o
+ *(.eh_fram e*)
+
+.glue_7         0x08001618        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x08001618        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x08001618        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08001618        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08001618        0x0
+ .iplt          0x00000000        0x0 ..\obj\stm32l1xx_gpio.o
+
+.rel.dyn        0x08001618        0x0
+ .rel.iplt      0x00000000        0x0 ..\obj\stm32l1xx_gpio.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08001618                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x08001618                __exidx_end = .
+                0x08001618                __etext = .
+                0x08001618                _sidata = __etext
+
+.data           0x20000000        0x0 load address 0x08001618
+                0x20000000                __data_start__ = .
+                0x20000000                _sdata = __data_start__
+ *(vtable)
+ *(.data*)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000000                PROVIDE (__preinit_array_end, .)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x20000000                PROVIDE (__init_array_end, .)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x20000000                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __data_end__ = .
+                0x20000000                _edata = __data_end__
+
+.igot.plt       0x20000000        0x0
+ .igot.plt      0x00000000        0x0 ..\obj\stm32l1xx_gpio.o
+
+.bss            0x20000000        0x8
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __bss_start__ = .
+                0x20000000                _sbss = __bss_start__
+ *(.bss*)
+ .bss           0x20000000        0x8 ..\obj\stm32l_discovery_lcd.o
+                0x20000000                KeyPressed
+                0x20000004                t_bar
+ *(COMMON)
+                0x20000008                . = ALIGN (0x4)
+                0x20000008                __bss_end__ = .
+                0x20000008                _ebss = __bss_end__
+
+.heap           0x20000008        0x0
+                0x20000008                __end__ = .
+                0x20000008                _end = __end__
+                0x20000008                end = __end__
+ *(.heap*)
+                0x20000008                __HeapLimit = .
+
+.co_stack       0x20000008      0x400
+                0x20000008                . = ALIGN (0x8)
+ *(.co_stack .co_stack.*)
+ .co_stack      0x20000008      0x400 ..\obj\startup_stm32l1xx_mdp.o
+                0x20000008                pulStack
+                0x20008000                __StackTop = (ORIGIN (ram) + 0x8000)
+                0x20007c00                __StackLimit = (__StackTop - SIZEOF (.co_stack))
+                0x20008000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region ram  overflowed with stack)
+LOAD ..\obj\stm32l1xx_gpio.o
+LOAD ..\obj\stm32l1xx_pwr.o
+LOAD ..\obj\stm32l_discovery_lcd.o
+LOAD ..\obj\stm32l1xx_exti.o
+LOAD ..\obj\stm32l1xx_rcc.o
+LOAD ..\obj\system_stm32l1xx.o
+LOAD ..\obj\main.o
+LOAD ..\obj\stm32l1xx_lcd.o
+LOAD ..\obj\LCD.o
+LOAD ..\obj\stm32l1xx_syscfg.o
+LOAD ..\obj\stm32l1xx_it.o
+LOAD ..\obj\startup_stm32l1xx_mdp.o
+LOAD ..\obj\BTN.o
+LOAD ..\obj\misc.o
+START GROUP
+LOAD c:/program files/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a
+LOAD c:/program files/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a
+LOAD c:/program files/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a
+END GROUP
+OUTPUT(Mentratech.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x2e63
+ .debug_info    0x00000000      0x643 ..\obj\stm32l1xx_gpio.o
+ .debug_info    0x00000643      0x5b1 ..\obj\stm32l1xx_pwr.o
+ .debug_info    0x00000bf4      0x70e ..\obj\stm32l_discovery_lcd.o
+ .debug_info    0x00001302      0xa0f ..\obj\stm32l1xx_rcc.o
+ .debug_info    0x00001d11      0x546 ..\obj\system_stm32l1xx.o
+ .debug_info    0x00002257       0xc7 ..\obj\main.o
+ .debug_info    0x0000231e      0x49f ..\obj\stm32l1xx_lcd.o
+ .debug_info    0x000027bd      0x17a ..\obj\LCD.o
+ .debug_info    0x00002937      0x12f ..\obj\stm32l1xx_it.o
+ .debug_info    0x00002a66       0xff ..\obj\startup_stm32l1xx_mdp.o
+ .debug_info    0x00002b65      0x2fe ..\obj\BTN.o
+
+.debug_abbrev   0x00000000      0xd60
+ .debug_abbrev  0x00000000      0x1a3 ..\obj\stm32l1xx_gpio.o
+ .debug_abbrev  0x000001a3      0x19d ..\obj\stm32l1xx_pwr.o
+ .debug_abbrev  0x00000340      0x1d0 ..\obj\stm32l_discovery_lcd.o
+ .debug_abbrev  0x00000510      0x1e3 ..\obj\stm32l1xx_rcc.o
+ .debug_abbrev  0x000006f3      0x145 ..\obj\system_stm32l1xx.o
+ .debug_abbrev  0x00000838       0x88 ..\obj\main.o
+ .debug_abbrev  0x000008c0      0x1ba ..\obj\stm32l1xx_lcd.o
+ .debug_abbrev  0x00000a7a       0xc5 ..\obj\LCD.o
+ .debug_abbrev  0x00000b3f       0x65 ..\obj\stm32l1xx_it.o
+ .debug_abbrev  0x00000ba4       0xa7 ..\obj\startup_stm32l1xx_mdp.o
+ .debug_abbrev  0x00000c4b      0x115 ..\obj\BTN.o
+
+.debug_aranges  0x00000000      0x4a0
+ .debug_aranges
+                0x00000000       0x88 ..\obj\stm32l1xx_gpio.o
+ .debug_aranges
+                0x00000088       0x88 ..\obj\stm32l1xx_pwr.o
+ .debug_aranges
+                0x00000110       0x68 ..\obj\stm32l_discovery_lcd.o
+ .debug_aranges
+                0x00000178      0x148 ..\obj\stm32l1xx_rcc.o
+ .debug_aranges
+                0x000002c0       0x30 ..\obj\system_stm32l1xx.o
+ .debug_aranges
+                0x000002f0       0x20 ..\obj\main.o
+ .debug_aranges
+                0x00000310       0xa8 ..\obj\stm32l1xx_lcd.o
+ .debug_aranges
+                0x000003b8       0x38 ..\obj\LCD.o
+ .debug_aranges
+                0x000003f0       0x60 ..\obj\stm32l1xx_it.o
+ .debug_aranges
+                0x00000450       0x28 ..\obj\startup_stm32l1xx_mdp.o
+ .debug_aranges
+                0x00000478       0x28 ..\obj\BTN.o
+
+.debug_ranges   0x00000000      0x3f0
+ .debug_ranges  0x00000000       0x78 ..\obj\stm32l1xx_gpio.o
+ .debug_ranges  0x00000078       0x78 ..\obj\stm32l1xx_pwr.o
+ .debug_ranges  0x000000f0       0x58 ..\obj\stm32l_discovery_lcd.o
+ .debug_ranges  0x00000148      0x138 ..\obj\stm32l1xx_rcc.o
+ .debug_ranges  0x00000280       0x20 ..\obj\system_stm32l1xx.o
+ .debug_ranges  0x000002a0       0x10 ..\obj\main.o
+ .debug_ranges  0x000002b0       0x98 ..\obj\stm32l1xx_lcd.o
+ .debug_ranges  0x00000348       0x28 ..\obj\LCD.o
+ .debug_ranges  0x00000370       0x50 ..\obj\stm32l1xx_it.o
+ .debug_ranges  0x000003c0       0x18 ..\obj\startup_stm32l1xx_mdp.o
+ .debug_ranges  0x000003d8       0x18 ..\obj\BTN.o
+
+.debug_line     0x00000000     0x1ca3
+ .debug_line    0x00000000      0x337 ..\obj\stm32l1xx_gpio.o
+ .debug_line    0x00000337      0x2ef ..\obj\stm32l1xx_pwr.o
+ .debug_line    0x00000626      0x422 ..\obj\stm32l_discovery_lcd.o
+ .debug_line    0x00000a48      0x516 ..\obj\stm32l1xx_rcc.o
+ .debug_line    0x00000f5e      0x1fd ..\obj\system_stm32l1xx.o
+ .debug_line    0x0000115b      0x150 ..\obj\main.o
+ .debug_line    0x000012ab      0x350 ..\obj\stm32l1xx_lcd.o
+ .debug_line    0x000015fb      0x206 ..\obj\LCD.o
+ .debug_line    0x00001801      0x1fd ..\obj\stm32l1xx_it.o
+ .debug_line    0x000019fe       0xa7 ..\obj\startup_stm32l1xx_mdp.o
+ .debug_line    0x00001aa5      0x1fe ..\obj\BTN.o
+
+.debug_str      0x00000000     0x1329
+ .debug_str     0x00000000      0x472 ..\obj\stm32l1xx_gpio.o
+                                0x4c8 (size before relaxing)
+ .debug_str     0x00000472      0x232 ..\obj\stm32l1xx_pwr.o
+                                0x3c8 (size before relaxing)
+ .debug_str     0x000006a4      0x21d ..\obj\stm32l_discovery_lcd.o
+                                0x54a (size before relaxing)
+ .debug_str     0x000008c1      0x528 ..\obj\stm32l1xx_rcc.o
+                                0x70c (size before relaxing)
+ .debug_str     0x00000de9       0xc2 ..\obj\system_stm32l1xx.o
+                                0x356 (size before relaxing)
+ .debug_str     0x00000eab       0x44 ..\obj\main.o
+                                0x16c (size before relaxing)
+ .debug_str     0x00000eef      0x1e5 ..\obj\stm32l1xx_lcd.o
+                                0x3f3 (size before relaxing)
+ .debug_str     0x000010d4       0x70 ..\obj\LCD.o
+                                0x1e6 (size before relaxing)
+ .debug_str     0x00001144       0xd3 ..\obj\stm32l1xx_it.o
+                                0x1fb (size before relaxing)
+ .debug_str     0x00001217       0xbd ..\obj\startup_stm32l1xx_mdp.o
+                                0x154 (size before relaxing)
+ .debug_str     0x000012d4       0x55 ..\obj\BTN.o
+                                0x37a (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ..\obj\stm32l1xx_gpio.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ..\obj\stm32l1xx_pwr.o
+ .comment       0x00000000       0x71 ..\obj\stm32l_discovery_lcd.o
+ .comment       0x00000000       0x71 ..\obj\stm32l1xx_rcc.o
+ .comment       0x00000000       0x71 ..\obj\system_stm32l1xx.o
+ .comment       0x00000000       0x71 ..\obj\main.o
+ .comment       0x00000000       0x71 ..\obj\stm32l1xx_lcd.o
+ .comment       0x00000000       0x71 ..\obj\LCD.o
+ .comment       0x00000000       0x71 ..\obj\stm32l1xx_it.o
+ .comment       0x00000000       0x71 ..\obj\startup_stm32l1xx_mdp.o
+ .comment       0x00000000       0x71 ..\obj\BTN.o
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_gpio.o
+ .ARM.attributes
+                0x00000033       0x33 ..\obj\stm32l1xx_pwr.o
+ .ARM.attributes
+                0x00000066       0x33 ..\obj\stm32l_discovery_lcd.o
+ .ARM.attributes
+                0x00000099       0x33 ..\obj\stm32l1xx_rcc.o
+ .ARM.attributes
+                0x000000cc       0x33 ..\obj\system_stm32l1xx.o
+ .ARM.attributes
+                0x000000ff       0x33 ..\obj\main.o
+ .ARM.attributes
+                0x00000132       0x33 ..\obj\stm32l1xx_lcd.o
+ .ARM.attributes
+                0x00000165       0x33 ..\obj\LCD.o
+ .ARM.attributes
+                0x00000198       0x33 ..\obj\stm32l1xx_it.o
+ .ARM.attributes
+                0x000001cb       0x33 ..\obj\startup_stm32l1xx_mdp.o
+ .ARM.attributes
+                0x000001fe       0x33 ..\obj\BTN.o
+
+.debug_frame    0x00000000     0x1164
+ .debug_frame   0x00000000      0x23c ..\obj\stm32l1xx_gpio.o
+ .debug_frame   0x0000023c      0x22c ..\obj\stm32l1xx_pwr.o
+ .debug_frame   0x00000468      0x17c ..\obj\stm32l_discovery_lcd.o
+ .debug_frame   0x000005e4      0x5e4 ..\obj\stm32l1xx_rcc.o
+ .debug_frame   0x00000bc8       0x7c ..\obj\system_stm32l1xx.o
+ .debug_frame   0x00000c44       0x2c ..\obj\main.o
+ .debug_frame   0x00000c70      0x2c0 ..\obj\stm32l1xx_lcd.o
+ .debug_frame   0x00000f30       0x88 ..\obj\LCD.o
+ .debug_frame   0x00000fb8      0x110 ..\obj\stm32l1xx_it.o
+ .debug_frame   0x000010c8       0x4c ..\obj\startup_stm32l1xx_mdp.o
+ .debug_frame   0x00001114       0x50 ..\obj\BTN.o

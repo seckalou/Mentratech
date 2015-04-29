@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/I..\..\..\workspace\Mentratech\cmsis /I..\..\..\workspace /I..\..\..\workspace\Mentratech\cmsis_boot /I..\..\..\workspace\Mentratech\button_controller /I..\..\..\workspace\Mentratech\cmsis_lib /I..\..\..\workspace\Mentratech\cmsis_lib\Include /I..\..\..\workspace\Mentratech /I..\..\..\workspace\Mentratech\lcd_controller">
+      <source file="..\..\..\cmsis_lib\Source\stm32l1xx_lcd.c" lastModified="14cfc3529c0">
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_lcd.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\stm32l1xx_rcc.h" lastModified="14cfc352a19">
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\stm32l1xx_pwr.h" lastModified="14cfc356809">
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="14cfc3532e6">
+      </source>
+      <source file="..\..\..\cmsis_lib\Source\stm32l1xx_syscfg.c" lastModified="14cfc352b5b">
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_syscfg.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Source\stm32l1xx_rcc.c" lastModified="14cfc352a33">
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\stm32l1xx_gpio.h" lastModified="14cfc3529e2">
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\stm32l1xx_exti.h" lastModified="14cfc353bf8">
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Source\stm32l1xx_pwr.c" lastModified="14cfc35680f">
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_pwr.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\button_controller\BTN.h" lastModified="14d01acea58">
+         <include file="..\..\..\lcd_controller\discover_board.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32l1xx.h" lastModified="14cfc352abb">
+      </source>
+      <source file="..\..\..\lcd_controller\discover_board.h" lastModified="14cfc0840b6">
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+      </source>
+      <source file="..\..\..\button_controller\BTN.c" lastModified="14d01ac3ea0">
+         <include file="..\..\..\lcd_controller\discover_board.h"/>
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32l1xx.c" lastModified="14cfc352ab0">
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Source\misc.c" lastModified="14cfc352b3a">
+         <include file="..\..\..\cmsis_lib\Include\misc.h"/>
+      </source>
+      <source file="..\..\..\lcd_controller\stm32l_discovery_lcd.h" lastModified="14cfc0527fe">
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+         <include file="..\..\..\lcd_controller\discover_board.h"/>
+      </source>
+      <source file="..\..\..\lcd_controller\stm32l_discovery_lcd.c" lastModified="14cfc56ce1c">
+         <include file="..\..\..\lcd_controller\stm32l_discovery_lcd.h"/>
+         <include file="..\..\..\lcd_controller\discover_board.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_lcd.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32l1xx.h" lastModified="14cfc353274">
+         <include file="..\..\..\cmsis\core_cm3.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32l1xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm3.h" lastModified="14cfc352ebd">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\Startup\startup_stm32l1xx_mdp.c" lastModified="14cfc352a7a">
+      </source>
+      <source file="..\..\..\lcd_controller\LCD.h" lastModified="14d018c367f">
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+      </source>
+      <source file="..\..\..\lcd_controller\stm32l1xx_it.h" lastModified="14cfc052803">
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+      </source>
+      <source file="..\..\..\lcd_controller\LCD.c" lastModified="14cfc59af47">
+         <include file="..\..\..\lcd_controller\discover_board.h"/>
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_pwr.h"/>
+         <include file="..\..\..\lcd_controller\stm32l_discovery_lcd.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\stm32l1xx_syscfg.h" lastModified="14cfc352b4f">
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+      </source>
+      <source file="..\..\..\main.c" lastModified="14d01aca37a">
+         <include file="..\..\..\lcd_controller\LCD.h"/>
+         <include file="..\..\..\button_controller\BTN.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="14cfc3532da">
+      </source>
+      <source file="..\..\..\lcd_controller\stm32l1xx_it.c" lastModified="14cfc0527ee">
+         <include file="..\..\..\lcd_controller\stm32l1xx_it.h"/>
+         <include file="..\..\..\lcd_controller\discover_board.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_exti.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Source\stm32l1xx_gpio.c" lastModified="14cfc3529f9">
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Source\stm32l1xx_exti.c" lastModified="14cfc353bfe">
+         <include file="..\..\..\cmsis_lib\Include\stm32l1xx_exti.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\misc.h" lastModified="14cfc352b21">
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\Include\stm32l1xx_lcd.h" lastModified="14cfc352977">
+         <include file="..\..\..\cmsis_boot\stm32l1xx.h"/>
+      </source>
+   </includePath>
+</dependencies>
